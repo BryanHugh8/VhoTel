@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./Reservation.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Adobe Garamond Pro:wght@700&display=swap"
+    />
+    <title>Reservation - VhoTel</title>
+    <link rel="icon" href="./public/istockphoto-464735508-612x612-removebg-preview.png">
+  </head>
+  <body>
+    <div class="reservation2">
+      <div class="reservation-inner">
+        <div class="frame-item"></div>
+      </div>
+      <div class="div1">
+        <p class="p1">2,500,000</p>
+      </div>
+      <div class="rp-20000001">Rp 2,000,000</div>
+      <div class="reservation-child"></div>
+      <img class="reservation-item" alt="" src="./public/line-14.svg" />
+
+      <div class="book-your-stay-parent">
+        <div class="book-your-stay1">BOOK YOUR STAY</div>
+        <div class="embark-on-a">
+          Embark on a journey of opulence and sophistication.
+        </div>
+      </div>
+        <form class="full-name-parent">
+          <div class="full-name">Full Name</div>
+          <div class="email">Email</div>
+          <div class="room-type">Room Type</div>
+          <div class="check-in-date">Check In Date</div>
+          <input class="frame-inner" type="date" id="checkInDate" required />
+
+          <div class="check-out-date">Check Out Date</div>
+          <input class="check-out-input" type="date" id="checkOutDate" required />
+          
+          <input class="component-3" type="text" placeholder="Enter Full Name" minlength="{5}" id="name" required />
+
+          <input class="component-31" type="text" placeholder="Enter Email" id="email" required />
+
+          <input class="component-32" type="text" placeholder="Enter Room Type" minlength="{5}" id="room" required />
+
+          <button type="button" onclick="validateRegistration()" class="rectangle-parent" id="groupButton">
+            <b class="book-now1">BOOK NOW</b>
+          </button>
+        </form>
+      <div class="reservation-child2"></div>
+      <div class="home-child"></div>
+
+      <div class="icon-container">
+        <img class="path-38-icon" alt="" src="./public/path-38.svg" />
+  
+        <img class="path-39-icon" alt="" src="./public/path-39.svg" />
+  
+        <img class="path-40-icon" alt="" src="./public/path-40.svg" />
+      </div>
+      
+      <div class="home-footer-parent">
+        <div class="footer-content-container">
+          <div class="jl-mh-thamrin-container">
+            <p class="p">Jl. MH Thamrin 1 No. 19-26</p>
+            <p class="p">VhoTel@gmail.com</p>
+          </div>
+
+          <div class="vhotel3">VhoTel</div>
+          <b class="hotels">HOTELS</b>
+        </div>
+      </div>
+      <div class="rectangle-parent1">
+        <nav>
+          <div class="vhotel25" id="vhoTelText">VhoTel</div>
+        <ul class="home-parent3">
+          <li class="home11" id="homeText">Home</li>
+          <li class="about-us12" id="aboutUsText">About Us</li>
+          <li class="about-us12" id="reservationText">Reservation</li>
+          <li class="about-us12" id="ourRoomsText">Our Rooms</li>
+          <li class="about-us12" id="ourFacilitiesText">Our Facilities</li>
+        </ul>
+        <div class="menu-toggle">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </div>
+        </nav>         
+      </div>
+    </div>
+
+    <script src="Reservation.js"></script>
+  </body>
+</html>

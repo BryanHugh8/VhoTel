@@ -1,0 +1,794 @@
+.frame-child3,
+.rectangle-icon {
+  position: absolute;
+  width: 100%;
+  height: 650px;
+}
+.rectangle-icon {
+  top: calc(50% - 325px);
+  right: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-child3 {
+  top: calc(50% + 325px);
+  right: -1380px;
+  left: 1460px;
+  border-radius: 0 0 var(--br-5xl) var(--br-5xl);
+  background: linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.6));
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.rectangle-container {
+  position: absolute;
+  width: calc(100% - 60px);
+  top: 47px;
+  right: 33px;
+  left: 27px;
+  height: 650px;
+}
+.our-facilities7 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+}
+.discover-our-world-class {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.1em;
+  -webkit-text-stroke: 0.5px #fff;
+}
+.our-facilities-parent {
+  position: absolute;
+  width: 45.42%;
+  top: calc(50% - 1699px);
+  right: 27.15%;
+  left: 27.43%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--neutrals);
+}
+.indoor-swimming-pool,
+.nestled-within-the {
+  align-self: stretch;
+  position: relative;
+}
+.nestled-within-the {
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+}
+.indoor-swimming-pool-parent {
+  position: absolute;
+  width: 40.35%;
+  top: calc(50% - 444px);
+  right: 57.01%;
+  left: 2.64%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.our-facilities-child,
+.our-facilities-item {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+}
+.our-facilities-child {
+  width: 0.14%;
+  top: calc(50% - 531px);
+  right: 53.26%;
+  left: 46.6%;
+  height: 302px;
+}
+.our-facilities-item {
+  height: 10.88%;
+  width: 46.11%;
+  top: 51.63%;
+  right: 51.25%;
+  bottom: 37.5%;
+  left: 2.64%;
+  border-radius: var(--br-5xs);
+  max-height: 100%;
+  object-fit: cover;
+}
+.fitness-center-parent,
+.wellness-spa-parent {
+  position: absolute;
+  width: 42.36%;
+  top: calc(50% + 178.5px);
+  right: 3.54%;
+  left: 54.1%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.fitness-center-parent {
+  width: 40.35%;
+  top: calc(50% + 829.5px);
+  right: 57.01%;
+  left: 2.64%;
+}
+.our-facilities-inner {
+  position: absolute;
+  top: calc(50% + 117px);
+  left: calc(50% + 17px);
+  width: 2px;
+  height: 302px;
+}
+.our-facilities-child1 {
+  position: absolute;
+  height: 10.88%;
+  width: 46.11%;
+  top: 81.83%;
+  right: 51.74%;
+  bottom: 7.3%;
+  left: 2.15%;
+  border-radius: var(--br-5xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rooftop-bar-parent {
+  position: absolute;
+  width: 42.36%;
+  top: calc(50% + 1381px);
+  right: 3.54%;
+  left: 54.1%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.line-icon,
+.our-facilities-child2 {
+  position: absolute;
+  top: calc(50% + 1328px);
+  left: calc(50% + 15.98px);
+  width: 2px;
+  height: 319.01px;
+}
+.our-facilities-child2 {
+  top: calc(50% + 759px);
+  left: calc(50% - 48px);
+  height: 322.01px;
+}
+.a4a9346a8ea7f0d39b20b09a7d8fb1-icon,
+.frame-icon,
+.our-facilities-child3 {
+  position: absolute;
+  height: 10.88%;
+  width: 46.11%;
+  right: 3.47%;
+  left: 50.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.a4a9346a8ea7f0d39b20b09a7d8fb1-icon {
+  top: 67.3%;
+  bottom: 21.83%;
+  object-fit: cover;
+}
+.frame-icon,
+.our-facilities-child3 {
+  top: 35.05%;
+  bottom: 54.08%;
+  border-radius: var(--br-5xs);
+}
+.our-facilities-child3 {
+  top: 51.63%;
+  right: 51.25%;
+  bottom: 37.5%;
+  left: 2.64%;
+}
+.our-facilities-child4 {
+  top: 67.3%;
+  right: 3.47%;
+  bottom: 21.83%;
+  left: 50.42%;
+  border-radius: var(--br-5xs);
+}
+.bc3f68ef41356d4ade3430bd106aed-icon,
+.our-facilities-child4,
+.our-facilities-child5,
+.our-facilities-child6 {
+  position: absolute;
+  height: 10.88%;
+  width: 46.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.our-facilities-child5 {
+  top: 81.83%;
+  right: 51.74%;
+  bottom: 7.3%;
+  left: 2.15%;
+  border-radius: var(--br-5xs);
+}
+.bc3f68ef41356d4ade3430bd106aed-icon,
+.our-facilities-child6 {
+  top: 20.35%;
+  right: 52.01%;
+  bottom: 68.78%;
+  left: 1.88%;
+}
+.bc3f68ef41356d4ade3430bd106aed-icon {
+  object-fit: cover;
+}
+.our-facilities-child6 {
+  border-radius: var(--br-5xs);
+}
+.rooftop-swimming-pool-parent {
+  position: absolute;
+  width: 42.29%;
+  top: calc(50% - 1079px);
+  right: 3.54%;
+  left: 54.17%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.our-facilities-child7 {
+  position: absolute;
+  width: 0.14%;
+  top: calc(50% - 1126px);
+  right: 48.68%;
+  left: 51.18%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 302px;
+}
+.home6,
+.our-facilities-child8 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.our-facilities-child8 {
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-gray-200);
+  height: 193px;
+}
+.home6 {
+  height: 100%;
+  top: 0;
+  display: inline-block;
+  -webkit-text-stroke: 0.5px #fff;
+}
+.about-us-footer3,
+.home-footer3 {
+  position: absolute;
+  bottom: 56px;
+  left: calc(50% - 64px);
+  width: 42px;
+  height: 18px;
+  cursor: pointer;
+}
+.about-us-footer3 {
+  bottom: 28px;
+  width: 60px;
+}
+.our-facilities-footer3,
+.our-rooms-footer3,
+.reservation-footer3 {
+  position: absolute;
+  bottom: 57px;
+  left: calc(50% + 25px);
+  width: 76px;
+  height: 18px;
+  cursor: pointer;
+}
+.our-facilities-footer3,
+.reservation-footer3 {
+  bottom: 29px;
+  width: 83px;
+}
+.reservation-footer3 {
+  bottom: 0;
+  left: calc(50% - 64px);
+  width: 75px;
+}
+.pages3 {
+  position: absolute;
+  bottom: 87px;
+  left: calc(50% - 67px);
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  display: inline-block;
+  width: 81px;
+  height: 24px;
+  -webkit-text-stroke: 0.5px #fff;
+}
+.vhotel15 {
+  margin: 0;
+}
+.vhotel-vhotel-vhotel-container3 {
+  position: absolute;
+  bottom: 19px;
+  left: calc(50% + 234px);
+  font-size: var(--font-size-base);
+  line-height: 194.9%;
+  display: inline-block;
+  width: 136px;
+  height: 84px;
+  -webkit-text-stroke: 0.5px #fff;
+}
+.path-38-icon3 {
+  position: absolute;
+  bottom: 80.14px;
+  left: calc(50% + 202.98px);
+  width: 10.82px;
+  height: 13.06px;
+}
+.path-39-icon3,
+.path-40-icon3 {
+  position: absolute;
+  bottom: 50px;
+  left: calc(50% + 199px);
+  width: 18px;
+  height: 11px;
+}
+.path-40-icon3 {
+  bottom: 18px;
+  left: calc(50% + 202px);
+  width: 16px;
+  height: 13px;
+}
+.jl-mh-thamrin-container3 {
+  bottom: 25.95px;
+  left: calc(50% - 370px);
+  font-size: var(--montserrat-medium-14-size);
+  text-align: center;
+  width: 212.44px;
+  height: 27.84px;
+  -webkit-text-stroke: 0.1px #fff;
+}
+.hotels3,
+.jl-mh-thamrin-container3,
+.vhotel18 {
+  position: absolute;
+  color: var(--neutrals);
+  display: inline-block;
+}
+.hotels3 {
+  bottom: 68.54px;
+  left: calc(50% - 306.91px);
+  font-size: var(--font-size-4xs);
+  letter-spacing: 0.6em;
+  font-family: var(--font-adobe-garamond-pro);
+  width: 50.7px;
+  height: 4.37px;
+}
+.vhotel18 {
+  bottom: 78.26px;
+  left: calc(50% - 328px);
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.15em;
+  width: 120.7px;
+  height: 20.74px;
+}
+.frame-div {
+  position: absolute;
+  top: 3835px;
+  left: 383px;
+  width: 740px;
+  height: 111px;
+  font-size: var(--font-size-xs);
+  color: var(--color-whitesmoke-100);
+}
+.vhotel19 {
+  position: absolute;
+  top: 81px;
+  left: 78px;
+  font-size: var(--font-size-16xl);
+  font-weight: 600;
+  color: var(--neutrals);
+  cursor: pointer;
+}
+.home7,
+.our-facilities9 {
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  cursor: pointer;
+}
+.our-facilities9 {
+  color: var(--color-burlywood);
+}
+.home-parent1 {
+  position: absolute;
+  width: 55.63%;
+  top: 91px;
+  right: 4.17%;
+  left: 40.21%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: var(--gap-7xl);
+  font-size: var(--font-size-xl);
+  color: var(--neutrals);
+}
+.our-facilities6 {
+  position: relative;
+  background-color: var(--color-whitesmoke-200);
+  width: 100%;
+  height: 4000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--blackish-green);
+  font-family: var(--montserrat-medium-14);
+}
+
+#homeText1:hover {
+  color: #e0b973;
+  transition-duration: 0.4s;
+}
+
+#aboutUsText1:hover {
+  color: #e0b973;
+  transition-duration: 0.4s;
+}
+
+#reservationText1:hover {
+  color: #e0b973;
+  transition-duration: 0.4s;
+}
+
+#ourRoomsText1:hover {
+  color: #e0b973;
+  transition-duration: 0.4s;
+}
+
+#ourFacilitiesText1:hover {
+  color: #957b4c;
+  transition-duration: 0.4s;
+}
+
+nav ul{
+  display: flex;
+  float: right;
+  margin-right: 20px;
+  z-index: 9999;
+}
+
+nav ul li{
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 px;
+  cursor: pointer;
+  position: relative;
+  /* padding: 0 10px; */
+}
+
+.menu-toggle{
+  float: right;
+  margin-top: -1080px;
+  right: 500px;
+  margin-right: 80px;
+  display: none;
+  flex-direction: column;
+  height: 20px;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.menu-toggle span{
+  display: block;
+  width: 30px;
+  height: 3px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+@media(max-width: 700px){
+  nav ul{
+    width: 10%;
+  }
+}
+
+.vhotel25 {
+  position: absolute;
+  top: 25px;
+  left: 39px;
+  font-weight: 600;
+}
+.home11 {
+  color: white;
+  transition-duration: 0.4s;
+}
+
+.about-us12,
+.home11 {
+  color: white;
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.line-icon2{
+  margin-top: -210px;
+  margin-left: 500px;
+  height: 250px;
+}
+
+#aboutUsText1{
+  color: white;
+}
+#aboutUsText1:hover {
+  color:#e0b973;
+  transition-duration: 0.4s;
+}
+
+#reservationText1:hover {
+  color: #e0b973;
+  transition-duration: 0.4s;
+}
+
+#homeText1:hover{
+  color: #e0b973;
+  transition-duration: 0.4s;
+}
+
+#ourFacilitiesText1{
+  color: #e0b973;
+}
+
+#ourRoomsText1:hover{
+  color: #e0b973;
+  transition-duration: 0.4s;
+}
+
+#ourFacilitiesText1:hover {
+  color: #957b4c;
+  transition-duration: 0.4s;
+}
+
+.home-parent3 {
+  position: absolute;
+  width: 58.04%;
+  top: -1080px;
+  right: 2.83%;
+  left: 39.13%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: var(--gap-7xl);
+  font-size: var(--font-size-xl);
+}
+.rectangle-parent1 {
+  position: absolute;
+  width: calc(100% - 60px);
+  top: calc(50% - 841px);
+  right: 28px;
+  left: 32px;
+  border-radius: var(--br-5xl);
+  height: 652px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-size: var(--font-size-16xl);
+}
+
+@media(max-width: 1440px){
+  @media(max-width: 1440px){
+    .menu-toggle{
+      display: flex;
+      margin: 0;
+      margin-top: -1080px;
+      margin-right: 40px;
+      margin-left: -10px;
+    }
+
+    nav ul{
+      display: none;
+      position: absolute;
+      margin-top: -1080px;
+      background-color: black;
+      width: 40%;
+      text-align: center;
+      transition: 0.3s;
+    }
+
+    .menu-toggle{
+      display: flex;
+    }
+
+    .menu-toggle.active .bar:nth-child(2){
+      opacity: 0;
+    }
+
+    .menu-toggle.active .bar:nth-child(1){
+      transform: translateY(8px) rotate(45deg);
+    }
+    .menu-toggle.active .bar:nth-child(3){
+      transform: translateY(-8px) rotate(-45deg);
+    }
+    
+    nav ul{
+      display: flex;
+    }
+
+    nav ul li{
+      color: white;
+      margin: 10px 0;
+    }
+
+    .home-parent3{
+      position: fixed;
+      left: -100%;
+      top: 100px;
+      gap: 1;
+      border-radius: 3%;
+      flex-direction: column;
+      background-color: black;
+      width: 40%;
+      text-align: center;
+      transition: 0.3s;
+    }
+
+    .home11{
+      margin: -20px 0;
+    }
+
+    .about-us12{
+      margin: -20px 0;
+    }
+
+    .menu-toggle.active {
+      position: absolute;
+      right: 10px;
+    }
+
+    .home-parent3.active{
+      position: relative;
+      left: 0;
+      right: 100px;
+    }
+  }
+}
+
+@media (min-aspect-ratio: 16/9){
+  .background{
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-aspect-ratio: 16/9){
+  .background{
+    width: auto;
+    height: 100%;
+  }
+}
+
+.home-child {
+  position: relative;
+  top: 96.4%;
+  background-color: var(--color-gray-200);
+  flex-wrap: wrap;
+  height: 193px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.path-38-icon {
+  bottom: 0px;
+  left: -50px;
+  right: 100px;
+  width: 15px;
+  height: 18px;
+  margin-right: 2%;
+}
+
+.path-39-icon{
+  left: -38px;
+  bottom: -4px;
+  width: 20px;
+  height: 23px;
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+.path-40-icon {
+  left: -62px;
+  bottom: -3px;
+  width: 20px;
+  height: 23px;
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+.icon-container {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  /* align-items: center; */
+  bottom: 0px;
+  left: 0;
+  right: 0;
+}
+
+.jl-mh-thamrin-container {
+  /* position: absolute; */
+  bottom: 25.95px;
+  margin-left: 2%;
+  font-size: var(--montserrat-medium-14-size);
+  text-align: center;
+  width: 212.44px;
+  height: 27.84px;
+  -webkit-text-stroke: 0.1px #fff;
+}
+
+.hotels,
+.jl-mh-thamrin-container,
+.vhotel3 {
+  position: absolute;
+  left: 40%;
+  color: var(--neutrals);
+  display: inline-block;
+  align-self: center;
+  align-items: center;
+  text-align: center;
+}
+
+.hotels {
+  position: absolute;
+  left: 47%;
+  bottom: 75px;
+  font-size: var(--font-size-4xs);
+  align-self: center;
+  align-items: center;
+  letter-spacing: 0.6em;
+  font-family: var(--font-adobe-garamond-pro);
+  width: 50.7px;
+  height: 4.37px;
+}
+
+.vhotel3 {
+  left: 45%;
+  bottom: 81%;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.15em;
+  width: 120.7px;
+  height: 20.74px;
+}
+
+.home-footer-parent {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 111px;
+  font-size: var(--font-size-xs);
+  color: var(--color-whitesmoke-100);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
